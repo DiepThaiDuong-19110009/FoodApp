@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">foody_08</string>
+    <string name="action_home">Trang chủ</string>
+    <string name="action_saved">Đã lưu</string>
+    <string name="action_order">Đơn hàng</string>
+    <string name="action_notification">Thông báo</string>
+    <string name="action_user">Tài khoản</string>
+</resources>
